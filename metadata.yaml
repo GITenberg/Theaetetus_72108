@@ -1,0 +1,41 @@
+_repo: Theaetetus_72108
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Burger, D. (Dionijs)
+    aliases:
+    - Burger, Dionijs
+    - Burger, Dionys
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '55781'
+    url: http://www.gutenberg.org/2009/agents/55781
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: https://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2023-11-12'
+identifiers:
+  gutenberg: '72108'
+language: nl
+pgterms:marc904: https://books.google.nl/books?id=6dNSAAAAcAAJ&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+pgterms:marc905: 20201022092103plato
+pgterms:marc906: '1847'
+pgterms:marc907: NL
+production_note: Wouter Franssen, Jeroen Hellingman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net/ for Project Gutenberg (This book was produced from
+  scanned images of public domain material from the Google Books project.)
+publication_note: '  $aAmsterdam :$bP. N. van Kampen, $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Theaetetus
+url: http://www.gutenberg.org/ebooks/72108
