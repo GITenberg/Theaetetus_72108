@@ -10,6 +10,9 @@ contributor:
     deathdate: 1891
     gutenberg_agent_id: '55781'
     url: http://www.gutenberg.org/2009/agents/55781
+covers:
+- cover_type: archival
+  image_path: 72108-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Plato
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/93
     wikipedia: https://en.wikipedia.org/wiki/Plato
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72108#Theaetetus
 gutenberg_issued: '2023-11-12'
 identifiers:
   gutenberg: '72108'
